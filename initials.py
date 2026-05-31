@@ -1,4 +1,4 @@
-# File: seantherapper.py
+# File:initials.py
 # Description: Print out my initials.
 # Assignment Number: 1
 #
